@@ -1,4 +1,4 @@
-# Xaverian Aerospace Engineering Organization (XAE Organization)
+# Xaverian Aerospace Engineering Organization (XAE)
 
 Welcome to the official repository of the Xaverian Aerospace Engineering Organization. Our mission is to foster research and development in aerospace engineering in Colombia, inspiring students and professionals—both within and beyond the university—to pursue innovation in this exciting field.
 
