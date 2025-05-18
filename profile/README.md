@@ -1,6 +1,7 @@
 # Xaverian Aerospace Engineering Organization (XAE)
 
-Welcome to the official repository of the Xaverian Aerospace Engineering Organization. Our mission is to foster research and development in aerospace engineering in Colombia, inspiring students and professionals—both within and beyond the university—to pursue innovation in this exciting field.
+Welcome to the official repository of Xaverian Aerospace Engineering (XAE), a student research group from the Faculty of Engineering at Xavierian Pontifical University.
+We are dedicated to promoting the development of aerospace engineering in Colombia through student-led initiatives. Our goal is to design and carry out high-quality projects that not only drive local innovation but also gain recognition internationally.
 
 ---
 
@@ -16,26 +17,26 @@ The organization is composed of students, researchers, and professionals from va
 
 ## Our Objectives
 
-- **Foster Aerospace Research:**  
-  Encourage the exploration of new ideas and the development of innovative technologies in aerospace engineering.
+- **Promotion of Aerospace Research and Innovation**  
+  Foster a culture of continuous learning and critical thinking by encouraging the exploration of cutting-edge technologies and the development of innovative solutions within the field of aerospace engineering. We aim to contribute meaningfully to both the national and international aerospace landscape.
 
-- **Interdisciplinary Collaboration:**  
-  Bring together talents from different fields (mechanical, systems, electronics, and mechatronics) to work on joint projects and research initiatives.
+- **Interdisciplinary Academic Collaboration**  
+  Integrate knowledge and methodologies from multiple engineering disciplines—including mechanical, systems, electronics, and mechatronics—to undertake collaborative projects that reflect the multifaceted nature of the aerospace sector. This synergy enhances the learning experience and promotes holistic problem-solving.
 
-- **Participation in Competitions:**  
-  Engage in national and international competitions, such as water-propelled rocket launches, drone challenges, and CubeSat design contests, to test and showcase our skills.
+- **Academic Excellence and Skill Development**  
+  Strengthen technical, analytical, and soft skills through rigorous research, hands-on experimentation, and continuous academic challenge. Our activities are designed to complement classroom learning and prepare members for high-level academic and professional environments.
 
-- **Scientific Publications:**  
-  Support and promote the publication of research papers in reputable journals and conferences.
+- **Engagement in National and International Competitions**  
+  Participate in diverse competitions—such as water-propelled rocket launches, drone design challenges, and CubeSat development contests—as a means to apply knowledge, test capabilities, and gain visibility in the global aerospace community.
 
-- **Organization of Conferences:**  
-  Host events, seminars, and conferences to disseminate knowledge, share experiences, and network with industry leaders.
+- **Scientific Dissemination and Research Publications**  
+  Encourage and support the publication of original research findings in peer-reviewed journals, conferences, and academic forums, thereby contributing to the body of knowledge in aerospace and related fields.
 
-- **Development of Projects:**  
-  Execute practical projects that serve as real-world applications of aerospace and electronic systems engineering principles.
+- **Organization of Technical Events and Knowledge Exchange Spaces**  
+  Plan and host conferences, seminars, workshops, and technical talks that promote dialogue between students, researchers, professionals, and industry leaders, creating opportunities for mentorship, collaboration, and academic growth.
 
-- **Industry Connection:**  
-  Establish strong ties with the aerospace industry to facilitate internships, collaborations, and job opportunities for our members.
+- **Project Development with Real-World Impact**  
+  Design and implement high-impact projects that address real-world challenges and demonstrate the practical application of aerospace and electronic systems engineering. These projects serve both as learning experiences and as contributions to the wider engineering community.
 
 ---
 
@@ -56,36 +57,7 @@ Our organization is structured to support a wide range of activities and initiat
 
 - **Documentation of Advances:**  
   All project developments, experiments, and research findings are meticulously documented and often published in scientific forums.
-
----
-
-## Semester Plan
-
-Our long-term plan is divided into multiple semesters to ensure steady growth and achievement:
-
-- **First Semester (2025 - 10) :**  
-  - Consolidation of the organization  
-  - Construction of a rocket for competition  
-  - Publication of findings for a scientific event  
-  - Organization of a conference
-
-- **Second Semester (2025 - 30) :**  
-  - Development of a robot prototype (Tars-type)  
-  - Drone development projects  
-  - Running simulations and hackathons  
-  - Publication of research outcomes
-
-- **Third Semester (2026 - 10) :**  
-  - Expansion of the organization’s activities  
-  - CubeSat projects  
-  - Participation in rocket competitions  
-  - Publishing in international journals
-
-- **Fourth Semester (2026 - 30) :**  
-  - Publication of research in high-impact conferences and journals  
-  - Formation of strategic industry alliances  
-  - Establishment of the organization as a national reference in aerospace research
-
+  
 ---
 
 ## How to Get Involved
