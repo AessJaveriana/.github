@@ -1,6 +1,6 @@
-# IEEE AESS Javeriana Bogota Organization
+# Xaverian Aerospace Engineering Organization (XAE Organization)
 
-Welcome to the official repository of the IEEE AESS Javeriana Bogota Organization. Our mission is to foster research and development in aerospace engineering in Colombia, inspiring students and professionals—both within and beyond the university—to pursue innovation in this exciting field.
+Welcome to the official repository of the Xaverian Aerospace Engineering Organization. Our mission is to foster research and development in aerospace engineering in Colombia, inspiring students and professionals—both within and beyond the university—to pursue innovation in this exciting field.
 
 ---
 
